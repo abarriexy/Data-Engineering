@@ -3,10 +3,9 @@
 This is my first respository as a data engineering students
 
 
+# My first project in GitHub
 
-**\*\*Project title\*\***
-
-learning how GitHub works
+##learning how GitHub works
 
 
 
