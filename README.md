@@ -25,3 +25,18 @@ This is my first respository as a data engineering students
 
 ![GitHub Image]("D:\Github\Data-Engineering\Image\github.jpg")
 
+|Name|items|Price
+|----|---|---|
+|Barrie|Tablet|3e6|
+|Ahmad|Toy|2e6|
+
+========================
+* [X]
+* [X]
+* [ ]
+
+```Python
+import pandas as pd
+
+print("Hello World")
+
